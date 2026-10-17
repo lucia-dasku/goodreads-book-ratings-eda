@@ -62,4 +62,16 @@ No new predictive models or production pipeline were added. The original submitt
 - [Books to Scrape](https://books.toscrape.com/) — purpose-built practice storefront used for the scraping method demonstration.
 - [pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) — library documentation.
 
-**Project type:** Undergraduate exploratory data analysis (portfolio revision). A software code licence has not been selected yet.
+**Project type:** Undergraduate exploratory data analysis (portfolio revision).
+
+## License
+
+The Python code and Jupyter notebook in this repository are licensed under the [MIT License](LICENSE).
+
+### Dataset attribution
+
+The Goodreads dataset (`data/books.csv`) was obtained from [Goodreads-books on Kaggle](https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks) and is listed under the Creative Commons Zero 1.0 Universal (CC0 1.0) licence.
+
+The Goodreads dataset is third-party material and is not covered by this repository's MIT software licence.
+
+The web-scraping demonstration uses fictional book data from [Books to Scrape](https://books.toscrape.com/).
